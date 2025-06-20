@@ -1,0 +1,24 @@
+digraph TOMLParser {
+    rankdir=LR;
+    node [shape=circle, style=filled, fillcolor=lightblue];
+    edge [fontname="Arial"];
+
+    Start [shape=point];
+    Section [label="Section"];
+    Key [label="Key"];
+    Value [label="Value"];
+    Comment [label="Comment"];
+    End [shape=doublecircle];
+
+    Start -> Section [label="["];
+    Start -> Key [label="char"];
+    Start -> Comment [label="#"];
+    Section -> Section [label="char"];
+    Section -> Key [label="\n"];
+    Key -> Key [label="char"];
+    Key -> Value [label="="];
+    Value -> Value [label="char"];
+    Value -> End [label="\n"];
+    Comment -> Comment [label="char"];
+    Comment -> End [label="\n"];
+}

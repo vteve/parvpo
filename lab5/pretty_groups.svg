@@ -1,0 +1,347 @@
+<svg xmlns='http://www.w3.org/2000/svg' style='font-size:initial;' class="pikchr" viewBox="0 0 33279.7 1425.6" data-pikchr-date="20250321215505">
+<path d="M85.9104,32.4L182.218,32.4L182.218,2.16L85.9104,2.16Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="134.064" y="17.28" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Группа 1</text>
+<path d="M2.16,62.64L265.968,62.64L265.968,32.4L2.16,32.4Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="134.064" y="47.52" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Попов Иван Владимирович</text>
+<path d="M265.968,62.64L529.776,62.64L529.776,32.4L265.968,32.4Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="397.872" y="47.52" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Сидоров Сергей Иванович</text>
+<path d="M529.776,62.64L816.624,62.64L816.624,32.4L529.776,32.4Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="673.2" y="47.52" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Новиков Максим Алексеевич</text>
+<path d="M816.624,62.64L1068.91,62.64L1068.91,32.4L816.624,32.4Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="942.768" y="47.52" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Кузнецов Иван Егорович</text>
+<path d="M1068.91,62.64L1321.2,62.64L1321.2,32.4L1068.91,32.4Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="1195.06" y="47.52" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Попов Максим Антонович</text>
+<path d="M1063.15,92.88L1326.96,92.88L1326.96,62.64L1063.15,62.64Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="1195.06" y="77.76" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Федоров Сергей Егорович</text>
+<path d="M1326.96,92.88L1636.85,92.88L1636.85,62.64L1326.96,62.64Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="1481.9" y="77.76" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Новиков Андрей Владимирович</text>
+<path d="M1636.85,92.88L1900.66,92.88L1900.66,62.64L1636.85,62.64Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="1768.75" y="77.76" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Морозов Андрей Иванович</text>
+<path d="M1900.66,92.88L1996.96,92.88L1996.96,62.64L1900.66,62.64Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="1948.81" y="77.76" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Группа 2</text>
+<path d="M1805.39,123.12L2092.23,123.12L2092.23,92.88L1805.39,92.88Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="1948.81" y="108" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Кузнецов Андрей Андреевич</text>
+<path d="M2092.23,123.12L2344.52,123.12L2344.52,92.88L2092.23,92.88Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="2218.38" y="108" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Петров Петр Дмитриевич</text>
+<path d="M2344.52,123.12L2619.85,123.12L2619.85,92.88L2344.52,92.88Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="2482.19" y="108" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Федоров Андрей Андреевич</text>
+<path d="M2619.85,123.12L2918.22,123.12L2918.22,92.88L2619.85,92.88Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="2769.03" y="108" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Васильев Максим Алексеевич</text>
+<path d="M2918.22,123.12L3182.03,123.12L3182.03,92.88L2918.22,92.88Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="3050.12" y="108" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Кузнецов Петр Антонович</text>
+<path d="M2918.22,153.36L3182.03,153.36L3182.03,123.12L2918.22,123.12Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="3050.12" y="138.24" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Иванов Андрей Антонович</text>
+<path d="M3001.97,183.6L3098.28,183.6L3098.28,153.36L3001.97,153.36Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="3050.12" y="168.48" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Группа 3</text>
+<path d="M2918.22,213.84L3182.03,213.84L3182.03,183.6L2918.22,183.6Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="3050.12" y="198.72" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Морозов Андрей Егорович</text>
+<path d="M3182.03,213.84L3468.87,213.84L3468.87,183.6L3182.03,183.6Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="3325.45" y="198.72" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Васильев Дмитрий Петрович</text>
+<path d="M3468.87,213.84L3721.16,213.84L3721.16,183.6L3468.87,183.6Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="3595.02" y="198.72" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Иванов Иван Максимович</text>
+<path d="M3721.16,213.84L4019.53,213.84L4019.53,183.6L3721.16,183.6Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="3870.35" y="198.72" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Кузнецов Дмитрий Сергеевич</text>
+<path d="M4019.53,213.84L4340.94,213.84L4340.94,183.6L4019.53,183.6Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="4180.23" y="198.72" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Новиков Алексей Владимирович</text>
+<path d="M4042.57,244.08L4317.9,244.08L4317.9,213.84L4042.57,213.84Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="4180.23" y="228.96" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Петров Егор Владимирович</text>
+<path d="M4132.08,274.32L4228.39,274.32L4228.39,244.08L4132.08,244.08Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="4180.23" y="259.2" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Группа 4</text>
+<path d="M4031.05,304.56L4329.42,304.56L4329.42,274.32L4031.05,274.32Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="4180.23" y="289.44" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Петров Максим Владимирович</text>
+<path d="M4329.42,304.56L4604.75,304.56L4604.75,274.32L4329.42,274.32Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="4467.08" y="289.44" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Попов Дмитрий Алексеевич</text>
+<path d="M4604.75,304.56L4822.47,304.56L4822.47,274.32L4604.75,274.32Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="4713.61" y="289.44" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Попов Иван Иванович</text>
+<path d="M4822.47,304.56L5074.76,304.56L5074.76,274.32L4822.47,274.32Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="4948.62" y="289.44" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Попов Максим Сергеевич</text>
+<path d="M5074.76,304.56L5327.05,304.56L5327.05,274.32L5074.76,274.32Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="5200.91" y="289.44" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Васильев Петр Егорович</text>
+<path d="M5063.24,334.8L5338.57,334.8L5338.57,304.56L5063.24,304.56Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="5200.91" y="319.68" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Федоров Сергей Антонович</text>
+<path d="M5338.57,334.8L5648.46,334.8L5648.46,304.56L5338.57,304.56Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="5493.51" y="319.68" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Федоров Андрей Владимирович</text>
+<path d="M5648.46,334.8L5946.83,334.8L5946.83,304.56L5648.46,304.56Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="5797.64" y="319.68" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Кузнецов Андрей Максимович</text>
+<path d="M5946.83,334.8L6043.13,334.8L6043.13,304.56L5946.83,304.56Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="5994.98" y="319.68" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Группа 5</text>
+<path d="M5857.32,365.04L6132.64,365.04L6132.64,334.8L5857.32,334.8Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="5994.98" y="349.92" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Петров Андрей Максимович</text>
+<path d="M6132.64,365.04L6419.49,365.04L6419.49,334.8L6132.64,334.8Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="6276.07" y="349.92" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Смирнов Максим Алексеевич</text>
+<path d="M6419.49,365.04L6694.82,365.04L6694.82,334.8L6419.49,334.8Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="6557.16" y="349.92" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Федоров Антон Дмитриевич</text>
+<path d="M6694.82,365.04L6981.67,365.04L6981.67,334.8L6694.82,334.8Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="6838.24" y="349.92" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Федоров Владимир Егорович</text>
+<path d="M6981.67,365.04L7233.96,365.04L7233.96,334.8L6981.67,334.8Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="7107.81" y="349.92" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Новиков Иван Сергеевич</text>
+<path d="M6970.15,395.28L7245.48,395.28L7245.48,365.04L6970.15,365.04Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="7107.81" y="380.16" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Иванов Сергей Максимович</text>
+<path d="M7245.48,395.28L7509.28,395.28L7509.28,365.04L7245.48,365.04Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="7377.38" y="380.16" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Смирнов Сергей Егорович</text>
+<path d="M7509.28,395.28L7605.59,395.28L7605.59,365.04L7509.28,365.04Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="7557.44" y="380.16" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Группа 6</text>
+<path d="M7431.29,425.52L7683.58,425.52L7683.58,395.28L7431.29,395.28Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="7557.44" y="410.4" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Иванов Петр Дмитриевич</text>
+<path d="M7683.58,425.52L7947.39,425.52L7947.39,395.28L7683.58,395.28Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="7815.48" y="410.4" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Кузнецов Егор Антонович</text>
+<path d="M7947.39,425.52L8222.72,425.52L8222.72,395.28L7947.39,395.28Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="8085.05" y="410.4" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Новиков Антон Алексеевич</text>
+<path d="M8222.72,425.52L8521.08,425.52L8521.08,395.28L8222.72,395.28Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="8371.9" y="410.4" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Васильев Егор Владимирович</text>
+<path d="M8521.08,425.52L8761.85,425.52L8761.85,395.28L8521.08,395.28Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="8641.47" y="410.4" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Попов Антон Антонович</text>
+<path d="M8498.04,455.76L8784.89,455.76L8784.89,425.52L8498.04,425.52Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="8641.47" y="440.64" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Иванов Дмитрий Дмитриевич</text>
+<path d="M8784.89,455.76L9083.26,455.76L9083.26,425.52L8784.89,425.52Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="8934.08" y="440.64" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Новиков Дмитрий Алексеевич</text>
+<path d="M9083.26,455.76L9179.57,455.76L9179.57,425.52L9083.26,425.52Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="9131.41" y="440.64" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Группа 7</text>
+<path d="M8976.47,486L9286.36,486L9286.36,455.76L8976.47,455.76Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="9131.41" y="470.88" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Новиков Андрей Владимирович</text>
+<path d="M9286.36,486L9561.69,486L9561.69,455.76L9286.36,455.76Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="9424.02" y="470.88" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Федоров Антон Алексеевич</text>
+<path d="M9561.69,486L9837.01,486L9837.01,455.76L9561.69,455.76Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="9699.35" y="470.88" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Кузнецов Андрей Егорович</text>
+<path d="M9837.01,486L10123.9,486L10123.9,455.76L9837.01,455.76Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="9980.44" y="470.88" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Федоров Максим Дмитриевич</text>
+<path d="M10123.9,486L10387.7,486L10387.7,455.76L10123.9,455.76Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="10255.8" y="470.88" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Смирнов Иван Дмитриевич</text>
+<path d="M10123.9,516.24L10387.7,516.24L10387.7,486L10123.9,486Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="10255.8" y="501.12" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Морозов Егор Алексеевич</text>
+<path d="M10207.6,546.48L10303.9,546.48L10303.9,516.24L10207.6,516.24Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="10255.8" y="531.36" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Группа 8</text>
+<path d="M10141.1,576.72L10370.4,576.72L10370.4,546.48L10141.1,546.48Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="10255.8" y="561.6" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Попов Антон Егорович</text>
+<path d="M10370.4,576.72L10657.2,576.72L10657.2,546.48L10370.4,546.48Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="10513.8" y="561.6" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Петров Владимир Андреевич</text>
+<path d="M10657.2,576.72L10909.5,576.72L10909.5,546.48L10657.2,546.48Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="10783.4" y="561.6" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Морозов Антон Иванович</text>
+<path d="M10909.5,576.72L11173.3,576.72L11173.3,546.48L10909.5,546.48Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="11041.4" y="561.6" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Иванов Дмитрий Иванович</text>
+<path d="M11173.3,576.72L11460.2,576.72L11460.2,546.48L11173.3,546.48Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="11316.8" y="561.6" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Сидоров Алексей Сергеевич</text>
+<path d="M11184.9,606.96L11448.7,606.96L11448.7,576.72L11184.9,576.72Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="11316.8" y="591.84" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Попов Андрей Максимович</text>
+<path d="M11268.6,637.2L11364.9,637.2L11364.9,606.96L11268.6,606.96Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="11316.8" y="622.08" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Группа 9</text>
+<path d="M11184.9,667.44L11448.7,667.44L11448.7,637.2L11184.9,637.2Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="11316.8" y="652.32" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Сидоров Иван Дмитриевич</text>
+<path d="M11448.7,667.44L11724,667.44L11724,637.2L11448.7,637.2Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="11586.3" y="652.32" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Кузнецов Антон Сергеевич</text>
+<path d="M11724,667.44L12010.8,667.44L12010.8,637.2L11724,637.2Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="11867.4" y="652.32" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Новиков Максим Дмитриевич</text>
+<path d="M12010.8,667.44L12286.2,667.44L12286.2,637.2L12010.8,637.2Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="12148.5" y="652.32" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Сидоров Антон Максимович</text>
+<path d="M12286.2,667.44L12584.5,667.44L12584.5,637.2L12286.2,637.2Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="12435.4" y="652.32" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Иванов Владимир Дмитриевич</text>
+<path d="M12286.2,697.68L12584.5,697.68L12584.5,667.44L12286.2,667.44Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="12435.4" y="682.56" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Кузнецов Андрей Дмитриевич</text>
+<path d="M12584.5,697.68L12859.9,697.68L12859.9,667.44L12584.5,667.44Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="12722.2" y="682.56" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Иванов Максим Алексеевич</text>
+<path d="M12859.9,697.68L13146.7,697.68L13146.7,667.44L12859.9,667.44Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="13003.3" y="682.56" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Новиков Владимир Иванович</text>
+<path d="M13146.7,697.68L13410.5,697.68L13410.5,667.44L13146.7,667.44Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="13278.6" y="682.56" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Иванов Дмитрий Иванович</text>
+<path d="M13410.5,697.68L13708.9,697.68L13708.9,667.44L13410.5,667.44Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="13559.7" y="682.56" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Петров Владимир Максимович</text>
+<path d="M13708.9,697.68L13815.7,697.68L13815.7,667.44L13708.9,667.44Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="13762.3" y="682.56" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Группа 10</text>
+<path d="M13630.4,727.92L13894.2,727.92L13894.2,697.68L13630.4,697.68Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="13762.3" y="712.8" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Иванов Дмитрий Егорович</text>
+<path d="M13894.2,727.92L14181,727.92L14181,697.68L13894.2,697.68Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="14037.6" y="712.8" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Федоров Петр Владимирович</text>
+<path d="M14181,727.92L14490.9,727.92L14490.9,697.68L14181,697.68Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="14336" y="712.8" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Кузнецов Антон Владимирович</text>
+<path d="M14490.9,727.92L14777.8,727.92L14777.8,697.68L14490.9,697.68Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="14634.3" y="712.8" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Новиков Максим Дмитриевич</text>
+<path d="M14777.8,727.92L15064.6,727.92L15064.6,697.68L14777.8,697.68Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="14921.2" y="712.8" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Сидоров Егор Владимирович</text>
+<path d="M14777.8,758.16L15064.6,758.16L15064.6,727.92L14777.8,727.92Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="14921.2" y="743.04" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Сидоров Сергей Алексеевич</text>
+<path d="M15064.6,758.16L15339.9,758.16L15339.9,727.92L15064.6,727.92Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="15202.3" y="743.04" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Васильев Егор Алексеевич</text>
+<path d="M15339.9,758.16L15446.7,758.16L15446.7,727.92L15339.9,727.92Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="15393.3" y="743.04" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Группа 11</text>
+<path d="M15267.2,788.4L15519.5,788.4L15519.5,758.16L15267.2,758.16Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="15393.3" y="773.28" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Сидоров Иван Андреевич</text>
+<path d="M15519.5,788.4L15794.8,788.4L15794.8,758.16L15519.5,758.16Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="15657.1" y="773.28" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Новиков Дмитрий Егорович</text>
+<path d="M15794.8,788.4L16093.2,788.4L16093.2,758.16L15794.8,758.16Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="15944" y="773.28" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Кузнецов Иван Владимирович</text>
+<path d="M16093.2,788.4L16345.5,788.4L16345.5,758.16L16093.2,758.16Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="16219.3" y="773.28" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Попов Алексей Егорович</text>
+<path d="M16345.5,788.4L16609.3,788.4L16609.3,758.16L16345.5,758.16Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="16477.4" y="773.28" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Сидоров Андрей Егорович</text>
+<path d="M16328.2,818.64L16626.6,818.64L16626.6,788.4L16328.2,788.4Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="16477.4" y="803.52" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Иванов Владимир Алексеевич</text>
+<path d="M16424,848.88L16530.8,848.88L16530.8,818.64L16424,818.64Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="16477.4" y="833.76" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Группа 12</text>
+<path d="M16362.7,879.12L16592,879.12L16592,848.88L16362.7,848.88Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="16477.4" y="864" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Петров Иван Петрович</text>
+<path d="M16592,879.12L16855.8,879.12L16855.8,848.88L16592,848.88Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="16723.9" y="864" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Морозов Сергей Петрович</text>
+<path d="M16855.8,879.12L17165.7,879.12L17165.7,848.88L16855.8,848.88Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="17010.7" y="864" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Иванов Алексей Владимирович</text>
+<path d="M17165.7,879.12L17452.5,879.12L17452.5,848.88L17165.7,848.88Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="17309.1" y="864" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Новиков Андрей Дмитриевич</text>
+<path d="M17452.5,879.12L17716.3,879.12L17716.3,848.88L17452.5,848.88Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="17584.4" y="864" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Петров Антон Алексеевич</text>
+<path d="M17469.8,909.36L17699.1,909.36L17699.1,879.12L17469.8,879.12Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="17584.4" y="894.24" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Иванов Егор Егорович</text>
+<path d="M17699.1,909.36L17962.9,909.36L17962.9,879.12L17699.1,879.12Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="17831" y="894.24" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Петров Дмитрий Петрович</text>
+<path d="M17962.9,909.36L18203.6,909.36L18203.6,879.12L17962.9,879.12Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="18083.3" y="894.24" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Сидоров Иван Петрович</text>
+<path d="M18203.6,909.36L18444.4,909.36L18444.4,879.12L18203.6,879.12Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="18324" y="894.24" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Новиков Петр Петрович</text>
+<path d="M18444.4,909.36L18551.2,909.36L18551.2,879.12L18444.4,879.12Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="18497.8" y="894.24" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Группа 13</text>
+<path d="M18365.9,939.6L18629.7,939.6L18629.7,909.36L18365.9,909.36Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="18497.8" y="924.48" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Кузнецов Иван Андреевич</text>
+<path d="M18629.7,939.6L18893.5,939.6L18893.5,909.36L18629.7,909.36Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="18761.6" y="924.48" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Новиков Максим Егорович</text>
+<path d="M18893.5,939.6L19180.4,939.6L19180.4,909.36L18893.5,909.36Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="19036.9" y="924.48" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Кузнецов Сергей Сергеевич</text>
+<path d="M19180.4,939.6L19444.2,939.6L19444.2,909.36L19180.4,909.36Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="19312.3" y="924.48" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Сидоров Сергей Егорович</text>
+<path d="M19444.2,939.6L19719.5,939.6L19719.5,909.36L19444.2,909.36Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="19581.8" y="924.48" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Морозов Дмитрий Егорович</text>
+<path d="M19444.2,969.84L19719.5,969.84L19719.5,939.6L19444.2,939.6Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="19581.8" y="954.72" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Морозов Дмитрий Петрович</text>
+<path d="M19719.5,969.84L19983.3,969.84L19983.3,939.6L19719.5,939.6Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="19851.4" y="954.72" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Федоров Андрей Иванович</text>
+<path d="M19983.3,969.84L20247.1,969.84L20247.1,939.6L19983.3,939.6Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="20115.2" y="954.72" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Морозов Максим Иванович</text>
+<path d="M20247.1,969.84L20353.9,969.84L20353.9,939.6L20247.1,939.6Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="20300.5" y="954.72" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Группа 14</text>
+<path d="M20151.3,1000.08L20449.7,1000.08L20449.7,969.84L20151.3,969.84Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="20300.5" y="984.96" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Васильев Егор Владимирович</text>
+<path d="M20449.7,1000.08L20725,1000.08L20725,969.84L20449.7,969.84Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="20587.4" y="984.96" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Федоров Дмитрий Иванович</text>
+<path d="M20725,1000.08L21011.9,1000.08L21011.9,969.84L20725,969.84Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="20868.5" y="984.96" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Васильев Андрей Сергеевич</text>
+<path d="M21011.9,1000.08L21252.6,1000.08L21252.6,969.84L21011.9,969.84Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="21132.3" y="984.96" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Попов Иван Дмитриевич</text>
+<path d="M21252.6,1000.08L21539.5,1000.08L21539.5,969.84L21252.6,969.84Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="21396.1" y="984.96" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Петров Алексей Максимович</text>
+<path d="M21264.2,1030.32L21528,1030.32L21528,1000.08L21264.2,1000.08Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="21396.1" y="1015.2" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Сидоров Петр Дмитриевич</text>
+<path d="M21528,1030.32L21757.2,1030.32L21757.2,1000.08L21528,1000.08Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="21642.6" y="1015.2" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Петров Петр Иванович</text>
+<path d="M21757.2,1030.32L22009.5,1030.32L22009.5,1000.08L21757.2,1000.08Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="21883.4" y="1015.2" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Петров Егор Максимович</text>
+<path d="M22009.5,1030.32L22116.3,1030.32L22116.3,1000.08L22009.5,1000.08Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="22062.9" y="1015.2" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Группа 15</text>
+<path d="M21925.2,1060.56L22200.6,1060.56L22200.6,1030.32L21925.2,1030.32Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="22062.9" y="1045.44" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Петров Андрей Алексеевич</text>
+<path d="M22200.6,1060.56L22475.9,1060.56L22475.9,1030.32L22200.6,1030.32Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="22338.2" y="1045.44" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Смирнов Максим Андреевич</text>
+<path d="M22475.9,1060.56L22716.7,1060.56L22716.7,1030.32L22475.9,1030.32Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="22596.3" y="1045.44" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Иванов Антон Петрович</text>
+<path d="M22716.7,1060.56L22957.4,1060.56L22957.4,1030.32L22716.7,1030.32Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="22837" y="1045.44" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Попов Егор Дмитриевич</text>
+<path d="M22957.4,1060.56L23221.2,1060.56L23221.2,1030.32L22957.4,1030.32Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="23089.3" y="1045.44" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Кузнецов Петр Сергеевич</text>
+<path d="M22945.9,1090.8L23232.8,1090.8L23232.8,1060.56L22945.9,1060.56Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="23089.3" y="1075.68" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Кузнецов Андрей Андреевич</text>
+<path d="M23232.8,1090.8L23542.6,1090.8L23542.6,1060.56L23232.8,1060.56Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="23387.7" y="1075.68" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Васильев Дмитрий Максимович</text>
+<path d="M23542.6,1090.8L23806.5,1090.8L23806.5,1060.56L23542.6,1060.56Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="23674.6" y="1075.68" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Сидоров Сергей Петрович</text>
+<path d="M23806.5,1090.8L23913.2,1090.8L23913.2,1060.56L23806.5,1060.56Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="23859.8" y="1075.68" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Группа 16</text>
+<path d="M23727.9,1121.04L23991.8,1121.04L23991.8,1090.8L23727.9,1090.8Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="23859.8" y="1105.92" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Сидоров Иван Дмитриевич</text>
+<path d="M23991.8,1121.04L24232.5,1121.04L24232.5,1090.8L23991.8,1090.8Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="24112.1" y="1105.92" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Новиков Иван Егорович</text>
+<path d="M24232.5,1121.04L24484.8,1121.04L24484.8,1090.8L24232.5,1090.8Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="24358.7" y="1105.92" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Смирнов Антон Иванович</text>
+<path d="M24484.8,1121.04L24725.6,1121.04L24725.6,1090.8L24484.8,1090.8Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="24605.2" y="1105.92" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Иванов Егор Сергеевич</text>
+<path d="M24725.6,1121.04L24977.9,1121.04L24977.9,1090.8L24725.6,1090.8Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="24851.7" y="1105.92" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Кузнецов Петр Петрович</text>
+<path d="M24685.3,1151.28L25018.2,1151.28L25018.2,1121.04L24685.3,1121.04Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="24851.7" y="1136.16" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Федоров Владимир Владимирович</text>
+<path d="M25018.2,1151.28L25293.5,1151.28L25293.5,1121.04L25018.2,1121.04Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="25155.8" y="1136.16" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Федоров Андрей Андреевич</text>
+<path d="M25293.5,1151.28L25580.4,1151.28L25580.4,1121.04L25293.5,1121.04Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="25436.9" y="1136.16" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Сидоров Андрей Дмитриевич</text>
+<path d="M25580.4,1151.28L25687.2,1151.28L25687.2,1121.04L25580.4,1121.04Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="25633.8" y="1136.16" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Группа 17</text>
+<path d="M25501.9,1181.52L25765.7,1181.52L25765.7,1151.28L25501.9,1151.28Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="25633.8" y="1166.4" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Морозов Антон Сергеевич</text>
+<path d="M25765.7,1181.52L26041,1181.52L26041,1151.28L25765.7,1151.28Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="25903.3" y="1166.4" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Попов Дмитрий Алексеевич</text>
+<path d="M26041,1181.52L26316.3,1181.52L26316.3,1151.28L26041,1151.28Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="26178.7" y="1166.4" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Петров Максим Максимович</text>
+<path d="M26316.3,1181.52L26580.1,1181.52L26580.1,1151.28L26316.3,1151.28Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="26448.2" y="1166.4" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Сидоров Петр Дмитриевич</text>
+<path d="M26580.1,1181.52L26843.9,1181.52L26843.9,1151.28L26580.1,1151.28Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="26712" y="1166.4" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Петров Сергей Антонович</text>
+<path d="M26562.8,1211.76L26861.2,1211.76L26861.2,1181.52L26562.8,1181.52Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="26712" y="1196.64" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Сидоров Алексей Максимович</text>
+<path d="M26861.2,1211.76L27102,1211.76L27102,1181.52L26861.2,1181.52Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="26981.6" y="1196.64" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Федоров Егор Петрович</text>
+<path d="M27102,1211.76L27411.9,1211.76L27411.9,1181.52L27102,1181.52Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="27256.9" y="1196.64" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Новиков Владимир Алексеевич</text>
+<path d="M27411.9,1211.76L27698.7,1211.76L27698.7,1181.52L27411.9,1181.52Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="27555.3" y="1196.64" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Новиков Алексей Сергеевич</text>
+<path d="M27698.7,1211.76L27805.5,1211.76L27805.5,1181.52L27698.7,1181.52Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="27752.1" y="1196.64" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Группа 18</text>
+<path d="M27602.9,1242L27901.3,1242L27901.3,1211.76L27602.9,1211.76Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="27752.1" y="1226.88" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Попов Алексей Владимирович</text>
+<path d="M27901.3,1242L28153.6,1242L28153.6,1211.76L27901.3,1211.76Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="28027.4" y="1226.88" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Федоров Петр Антонович</text>
+<path d="M28153.6,1242L28475,1242L28475,1211.76L28153.6,1211.76Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="28314.3" y="1226.88" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Кузнецов Владимир Алексеевич</text>
+<path d="M28475,1242L28773.4,1242L28773.4,1211.76L28475,1211.76Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="28624.2" y="1226.88" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Васильев Владимир Егорович</text>
+<path d="M28773.4,1242L29083.2,1242L29083.2,1211.76L28773.4,1211.76Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="28928.3" y="1226.88" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Васильев Дмитрий Максимович</text>
+<path d="M28819.4,1272.24L29037.2,1272.24L29037.2,1242L28819.4,1242Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="28928.3" y="1257.12" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Попов Егор Петрович</text>
+<path d="M29037.2,1272.24L29335.5,1272.24L29335.5,1242L29037.2,1242Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="29186.4" y="1257.12" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Новиков Алексей Дмитриевич</text>
+<path d="M29335.5,1272.24L29599.3,1272.24L29599.3,1242L29335.5,1242Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="29467.4" y="1257.12" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Смирнов Петр Алексеевич</text>
+<path d="M29599.3,1272.24L29909.2,1272.24L29909.2,1242L29599.3,1242Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="29754.3" y="1257.12" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Смирнов Андрей Владимирович</text>
+<path d="M29909.2,1272.24L30016,1272.24L30016,1242L29909.2,1242Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="29962.6" y="1257.12" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Группа 19</text>
+<path d="M29836.5,1302.48L30088.8,1302.48L30088.8,1272.24L29836.5,1272.24Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="29962.6" y="1287.36" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Иванов Иван Алексеевич</text>
+<path d="M30088.8,1302.48L30318,1302.48L30318,1272.24L30088.8,1272.24Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="30203.4" y="1287.36" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Петров Иван Иванович</text>
+<path d="M30318,1302.48L30593.3,1302.48L30593.3,1272.24L30318,1272.24Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="30455.7" y="1287.36" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Васильев Андрей Иванович</text>
+<path d="M30593.3,1302.48L30891.7,1302.48L30891.7,1272.24L30593.3,1272.24Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="30742.5" y="1287.36" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Иванов Владимир Алексеевич</text>
+<path d="M30891.7,1302.48L31190.1,1302.48L31190.1,1272.24L30891.7,1272.24Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="31040.9" y="1287.36" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Смирнов Алексей Алексеевич</text>
+<path d="M30914.8,1332.72L31167,1332.72L31167,1302.48L30914.8,1302.48Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="31040.9" y="1317.6" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Новиков Иван Андреевич</text>
+<path d="M30987.5,1362.96L31094.3,1362.96L31094.3,1332.72L30987.5,1332.72Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="31040.9" y="1347.84" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Группа 20</text>
+<path d="M30891.7,1393.2L31190.1,1393.2L31190.1,1362.96L30891.7,1362.96Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="31040.9" y="1378.08" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Кузнецов Егор Владимирович</text>
+<path d="M31190.1,1393.2L31442.4,1393.2L31442.4,1362.96L31190.1,1362.96Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="31316.2" y="1378.08" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Сидоров Антон Егорович</text>
+<path d="M31442.4,1393.2L31729.2,1393.2L31729.2,1362.96L31442.4,1362.96Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="31585.8" y="1378.08" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Петров Владимир Сергеевич</text>
+<path d="M31729.2,1393.2L31981.5,1393.2L31981.5,1362.96L31729.2,1362.96Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="31855.4" y="1378.08" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Иванов Иван Алексеевич</text>
+<path d="M31981.5,1393.2L32279.9,1393.2L32279.9,1362.96L31981.5,1362.96Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="32130.7" y="1378.08" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Морозов Дмитрий Дмитриевич</text>
+<path d="M31981.5,1423.44L32279.9,1423.44L32279.9,1393.2L31981.5,1393.2Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="32130.7" y="1408.32" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Смирнов Алексей Алексеевич</text>
+<path d="M32279.9,1423.44L32509.1,1423.44L32509.1,1393.2L32279.9,1393.2Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="32394.5" y="1408.32" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Петров Егор Егорович</text>
+<path d="M32509.1,1423.44L32761.4,1423.44L32761.4,1393.2L32509.1,1393.2Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="32635.3" y="1408.32" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Федоров Петр Антонович</text>
+<path d="M32761.4,1423.44L33013.7,1423.44L33013.7,1393.2L32761.4,1393.2Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="32887.6" y="1408.32" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Новиков Иван Сергеевич</text>
+<path d="M33013.7,1423.44L33277.5,1423.44L33277.5,1393.2L33013.7,1393.2Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="33145.6" y="1408.32" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Петров Сергей Антонович</text>
+</svg>
+

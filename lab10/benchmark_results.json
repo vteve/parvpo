@@ -1,0 +1,38 @@
+{
+  "O0": {
+    "baseline": 1.30675,
+    "correct": 1.38735,
+    "wrong": 1.37933,
+    "invert": 1.45755
+  },
+  "O1": {
+    "baseline": 0.408741,
+    "correct": 0.410731,
+    "wrong": 0.430346,
+    "invert": 0.42138
+  },
+  "O2": {
+    "baseline": 0.255814,
+    "correct": 0.239733,
+    "wrong": 0.316275,
+    "invert": 0.311724
+  },
+  "O3": {
+    "baseline": 0.235397,
+    "correct": 0.237648,
+    "wrong": 0.335191,
+    "invert": 0.339526
+  },
+  "Os": {
+    "baseline": 0.725316,
+    "correct": 0.720217,
+    "wrong": 0.710461,
+    "invert": 0.705103
+  },
+  "Oz": {
+    "baseline": 0.724957,
+    "correct": 0.723811,
+    "wrong": 0.711328,
+    "invert": 0.711062
+  }
+}

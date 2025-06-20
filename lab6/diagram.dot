@@ -1,0 +1,47 @@
+digraph TOMLParser {
+    // Graph settings
+    rankdir=LR;
+    size="8,5";
+    node [shape=circle, style=filled, fillcolor=lightblue, fontname="Arial"];
+    edge [fontname="Arial"];
+
+    // States
+    Start [shape=point, fillcolor=black];
+    Section [label="Section", fillcolor="#FFB6C1"];
+    Key [label="Key", fillcolor="#98FB98"];
+    Value [label="Value", fillcolor="#87CEEB"];
+    Comment [label="Comment", fillcolor="#DDA0DD"];
+    End [shape=doublecircle, fillcolor="#F0E68C"];
+
+    // Transitions
+    Start -> Section [label="[", color=blue];
+    Start -> Key [label="char", color=green];
+    Start -> Comment [label="#", color=purple];
+
+    Section -> Section [label="char", color=red];
+    Section -> Key [label="\n", color=blue];
+
+    Key -> Key [label="char", color=green];
+    Key -> Value [label="=", color=blue];
+
+    Value -> Value [label="char", color=blue];
+    Value -> End [label="\n", color=red];
+
+    Comment -> Comment [label="char", color=purple];
+    Comment -> End [label="\n", color=red];
+
+    // Legend
+    subgraph cluster_legend {
+        label="Legend";
+        style=filled;
+        color=lightgrey;
+        node [shape=box, style=filled, fillcolor=white];
+        edge [style=invis];
+        legend1 [label="Initial State"];
+        legend2 [label="Final State"];
+        legend3 [label="Section State"];
+        legend4 [label="Key State"];
+        legend5 [label="Value State"];
+        legend6 [label="Comment State"];
+    }
+}

@@ -1,0 +1,6 @@
+section,key,value
+database,name,mydb
+database,password,secret123
+database,user,admin
+server,host,localhost
+server,port,8080

@@ -1,0 +1,9 @@
+# Это комментарий
+[server]
+host = "localhost"
+port = 8080
+
+[database]
+name = "mydb"
+user = "admin"
+password = "secret123"

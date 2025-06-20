@@ -1,0 +1,36 @@
+# Compiled files and executables
+*.o
+*.out
+*.so
+*.dll
+*.a
+
+# Binary files
+*.bin
+
+# Temporary and cache files
+*~
+__pycache__/
+.cache/
+
+# Virtual environment
+.venv/
+
+# IDE and editor specific files
+.vscode/
+
+# Large data files
+/lab4/1/data.txt
+/lab4/2/data.txt
+/lab4/3/data.txt
+/lab4/4/data.txt
+
+# Lab11 temporary directories
+/lab11/test_repo/
+/lab11/git_benchmark_repo/
+/lab11/mercurial_benchmark_repo/
+/lab11/svn_server_repo/
+/lab11/svn_working_copy/
+
+# Submodules or vendor code
+/lab5/pikchr/ 

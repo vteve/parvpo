@@ -1,0 +1,20 @@
+{
+  "git": {
+    "add_time": 17.55665874481201,
+    "modify_time": 8.563406229019165,
+    "merge_time": 1.347303867340088,
+    "success": true
+  },
+  "mercurial": {
+    "add_time": 0.8308150768280029,
+    "modify_time": 1.0521690845489502,
+    "merge_time": 0.2198953628540039,
+    "success": true
+  },
+  "subversion": {
+    "add_time": 155.12578511238098,
+    "modify_time": 77.53598403930664,
+    "merge_time": 0.13556790351867676,
+    "success": true
+  }
+}
